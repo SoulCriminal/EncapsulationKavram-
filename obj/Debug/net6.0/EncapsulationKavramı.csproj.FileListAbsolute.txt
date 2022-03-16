@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\EncapsulationKavramı.exe
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\EncapsulationKavramı.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\EncapsulationKavramı.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\EncapsulationKavramı.dll
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\ref\EncapsulationKavramı.dll
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\bin\Debug\net6.0\EncapsulationKavramı.pdb
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.dll
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\ref\EncapsulationKavramı.dll
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.pdb
+C:\Users\MGM\Desktop\VsCode\C#\EncapsulationKavramı\obj\Debug\net6.0\EncapsulationKavramı.genruntimeconfig.cache
